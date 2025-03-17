@@ -34,4 +34,3 @@ echo doSomethingWithT($x); // все работает
 $y = new T1();
 echo doSomethingWithT($y);
 // все работает так же, как и с базовым типом Т, никаких ошибок нет
-
